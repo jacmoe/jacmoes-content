@@ -4,7 +4,7 @@ Author:
 Date: 2010/12/20 03:43:00
 Datetime: 2010-12-20
 Updated: 2010/12/20 16:58:00
-Description: Winterly reminder that it's better to be safe than sorry in programming: automatic dual configuration in Yii.
+Description: Winterly reminder that it's better to be safe than sorry in programming. Automatic dual configuration in Yii.
 Template: post
 Disqusid: /arrgh
 ogimage: arrgh/winter.jpg

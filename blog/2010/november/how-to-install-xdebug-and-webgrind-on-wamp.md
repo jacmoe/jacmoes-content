@@ -5,7 +5,7 @@ Date: 2010/11/03 03:43:00
 Datetime: 2010-11-03
 Updated: 2010/11/03 16:58:00
 Description: How to install XDebug and Webgrind on Wamp
-Template: post
+View: post
 Disqusid: /how-to-install-xdebug-and-webgrind-on-wamp
 ogimage: webgrind/webgrind.png
 thumb: webgrind/webgrind_custom.png

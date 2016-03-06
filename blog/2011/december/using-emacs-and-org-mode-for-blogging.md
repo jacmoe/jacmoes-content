@@ -5,7 +5,7 @@ Date: 2011/12/27 03:43:00
 Datetime: 2011-12-27
 Updated: 2014/01/09 00:14:54
 Description: How I use Emacs and Org-Mode for blogging
-Template: post
+View: post
 Disqusid: /using-emacs-and-org-mode-for-blogging
 ogimage: orgmode/org-mode-blogging.png
 thumb: orgmode/org-mode-blogging_custom.png

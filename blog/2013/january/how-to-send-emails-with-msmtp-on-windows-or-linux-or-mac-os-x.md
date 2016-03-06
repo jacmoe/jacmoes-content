@@ -5,7 +5,7 @@ Date: 2013/01/03 03:43:00
 Datetime: 2013-01-03
 Updated: 2013/01/03 16:58:00
 Description: When you are a developer it is often useful to be able to send emails from your local machine without having to install an email server like sendmail. This example uses PHP and a Gmail account.
-Template: post
+View: post
 Disqusid: /how-to-send-emails-with-msmtp-on-windows-or-linux-or-mac-os-x
 ogimage: msmtp/email-at-work.jpg
 thumb: msmtp/email-at-work_custom.jpg

@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/01/19 13:38
 Datetime: 2015-01-19
 Description: A bit over a year ago I pulled the plug and went off-line. I had reached a point where I simply had no choice but to unplug and regroup. But I'm not dead yet.
-Template: post
+View: post
 Disqusid: /alive-and-kicking
 ogimage: alive/not-dead-yet.jpg
 thumb: alive/not-dead-yet_custom.jpg

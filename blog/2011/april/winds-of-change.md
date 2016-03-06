@@ -5,7 +5,7 @@ Date: 2011/04/16 03:43:00
 Datetime: 2011-04-16
 Updated: 2011/04/16 16:58:00
 Description: A new year with lots of promises is upon us - actually it's been a new year for a while now, but I only got around to blog about it just now - and a lot of things has changed in the geeky life of me.
-Template: post
+View: post
 Disqusid: /winds-of-change
 ogimage: windsofchange/northern-lights.jpg
 thumb: windsofchange/northern-lights_custom.jpg

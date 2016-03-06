@@ -5,7 +5,7 @@ Date: 2011/08/21 03:43:00
 Datetime: 2011-08-21
 Updated: 2011/08/21 16:58:00
 Description: Finally found an online editor I am satisfied with. Wymeditor - the WYSIWYM editor which leaves your code alone.
-Template: post
+View: post
 Disqusid: /what-you-see-is-what-you-mean
 ogimage: wysiwym/wysiwym.jpeg
 thumb: wysiwym/wysiwym_custom.jpeg

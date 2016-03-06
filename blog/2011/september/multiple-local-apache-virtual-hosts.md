@@ -5,7 +5,7 @@ Date: 2011/09/18 03:43:00
 Datetime: 2011-09-18
 Updated: 2011/09/18 16:58:00
 Description: How to set up multiple local virtual hosts with Apache for web development on Linux
-Template: post
+View: post
 Disqusid: /multiple-local-apache-virtual-hosts
 ogimage: multiple-vhosts/virtual_hosts_diagram_1.jpg
 thumb: multiple-vhosts/virtual_hosts_diagram_1_custom.jpg

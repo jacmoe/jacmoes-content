@@ -5,7 +5,7 @@ Date: 2011/12/03 03:43:00
 Datetime: 2011-12-03
 Updated: 2011/12/03 16:58:00
 Description: How to install PHP PEAR locally using Pyrus on your development machine and use it on your web host without server install.
-Template: post
+View: post
 Disqusid: /local-pear-installation-using-pyrus-without-system-wide-server-install
 ogimage: pyrus/pyrus.jpg
 thumb: pyrus/pyrus_custom.jpg

@@ -5,7 +5,7 @@ Date: 2012/12/31 23:01:00
 Datetime: 2012-12-31
 Updated: 2012/12/31 23:01:00
 Description: How I went from being a regular programmer to becoming an l33t hacker by removing the letters from my old keyboard.
-Template: post
+View: post
 Disqusid: /the-blank-keyboard
 ogimage: blank-keyboard/blank_keyboard.jpg
 thumb: blank-keyboard/blank_keyboard_custom.jpg

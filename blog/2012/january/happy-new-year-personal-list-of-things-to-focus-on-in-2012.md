@@ -5,7 +5,7 @@ Date: 2012/01/16 03:43:00
 Datetime: 2012-01-16
 Updated: 2012/01/16 16:58:00
 Description: This is my personal list of things to focus on in anno 2012 - programming and other.
-Template: post
+View: post
 Disqusid: /happy-new-year-personal-list-of-things-to-focus-on-in-2012
 ogimage: newyear2012/magnifyingglass.png
 thumb: newyear2012/magnifyingglass_custom.png

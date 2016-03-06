@@ -5,7 +5,7 @@ Date: 2011/10/31 03:43:00
 Datetime: 2011-10-31
 Updated: 2011/10/31 16:58:00
 Description: How to send test emails using PHP mail from your WAMP server by means of fake sendmail and a GMail account.
-Template: post
+View: post
 Disqusid: /how-to-send-test-emails-using-php-mail-from-your-local-wamp-installation
 ogimage: wampemail/test_email.jpg
 thumb: wampemail/test_email_custom.jpg

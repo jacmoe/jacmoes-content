@@ -5,7 +5,7 @@ Date: 2010/06/16 03:43:00
 Datetime: 2010-06-16
 Updated: 2010/06/16 16:58:00
 Description: After more than six months in the making, the new Ogre wiki is now live! My biggest solo project so far, and I am both proud and happy to see that it succeeded.
-Template: post
+View: post
 Disqusid: /new-ogre-wiki
 thumb: newogrewiki/ogreWiki_custom.png
 ogimage: newogrewiki/ogreWiki.png

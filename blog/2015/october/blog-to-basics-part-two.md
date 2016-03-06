@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/10/27 13:38
 Datetime: 2015-10-27
 Description: The second part of my post about how I ditched complexity and started using a flat file php-based blogging software package called Phile.
-Template: post
+View: post
 Disqusid: /blog-to-basics
 ogimage: blog2basics/flatfile.jpg
 thumb: blog2basics/flatfile_custom.jpg
@@ -50,7 +50,7 @@ Author: Jacob Moen
 Date: 2015/10/27 13:38
 Datetime: 2015-10-27
 Description: The second part of my post ...<snipped>
-Template: post
+View: post
 Disqusid: /blog-to-basics
 ogimage: flatfile.jpg
 thumb: flatfile_custom.jpg

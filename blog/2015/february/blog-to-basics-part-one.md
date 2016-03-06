@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/02/22 13:38
 Datetime: 2015-02-22
 Description: The rejuvenation of my blog by getting rid of junk like database and code bloat and start using a flat file based blogging software called Phile.
-Template: post
+View: post
 Disqusid: /blog-to-basics
 ogimage: blog2basics/flatfile.jpg
 thumb: blog2basics/flatfile_custom.jpg

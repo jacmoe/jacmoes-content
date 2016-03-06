@@ -5,7 +5,7 @@ Date: 2010/06/10 03:43:00
 Datetime: 2010-06-10
 Updated: 2010/06/10 16:58:00
 Description: This is a mini-guide to install Mercurial locally in your home directory. Useful if you're on a shared host without root access.
-Template: post
+View: post
 Disqusid: /mercurial-1-5-on-dreamhost
 thumb: dream-mercurial/hipstercat_custom.jpg
 ogimage: dream-mercurial/hipstercat.jpg

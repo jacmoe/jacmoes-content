@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2016/02/10 20:02
 Datetime: 2016-02-10
 Description: The dark art of secure Apache virtual hosts
-Template: post
+View: post
 Disqusid: /2016/february/secure-apache
 ogimage: secureapache/secureapache.jpg
 thumb: secureapache/secureapache_custom.jpg

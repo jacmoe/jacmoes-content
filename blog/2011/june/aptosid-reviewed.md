@@ -5,7 +5,7 @@ Date: 2011/06/03 03:43:00
 Datetime: 2011-06-03
 Updated: 2011/06/03 16:58:00
 Description: A review of aptosid - a distribution based on Debian unstable (Sid). The surprisingly stable unstable Debian distribution. If you like KDE and Debian, and all the latest software and a stable cutting-edge system, then this distribution is for you!
-Template: post
+View: post
 Disqusid: /aptosid-reviewed
 ogimage: aptosid/aptosid.png
 thumb: aptosid/aptosid_custom.png

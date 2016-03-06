@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2016/01/20 20:02
 Datetime: 2016-01-20
 Description: A template engine parser for PhileCMS that let you write HAML templates using Twig tags
-Template: post
+View: post
 Disqusid: /2015/november/mthaml-phile-plugin
 ogimage: mthaml/mthaml.png
 thumb: mthaml/mthaml_custom.png

@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2016/01/22 01:02
 Datetime: 2016-01-22
 Description: How to integrate Deployer with your Yii project
-Template: post
+View: post
 Disqusid: /2016/january/deploying-yii-with-deployer
 ogimage: deployer/deployer.png
 thumb: deployer/deployer_custom.png

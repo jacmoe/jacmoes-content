@@ -4,5 +4,5 @@ Description: Jacmoes is the personal home page of Jacob Moen where he writes abo
 Keywords: Jacob, Moen, Jacob Moen, jacmoe, Ogre3d, Yii, PHP, programming, C++, Ogitor, Bugitor
 ogimage: newsiteimage.jpg
 Date: 2013/01/02 03:43:00
-Template: page
+View: page
  -->

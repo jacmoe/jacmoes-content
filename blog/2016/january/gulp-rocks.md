@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2016/01/12 01:02
 Datetime: 2016-01-12
 Description: I totally made the switch from Grunt to Gulp
-Template: post
+View: post
 Disqusid: /2016/january/gulp-rocks
 ogimage: gulp/gulp.png
 thumb: gulp/gulp_custom.png

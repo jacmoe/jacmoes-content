@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2016/01/10 20:02
 Datetime: 2016-01-10
 Description: A handy bash script to make the process of testing a 'composer create-project' command easier by operating against your local working copy.
-Template: post
+View: post
 Disqusid: /composer-create-project-script
 ogimage: composer-project/composer-project.jpg
 thumb: composer-project/composer-project_custom.jpg

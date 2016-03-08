@@ -6,3 +6,4 @@ ogimage: newsiteimage.jpg
 Date: 2013/01/05 03:43:00
 View: index
 -->
+This is a test

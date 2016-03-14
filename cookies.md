@@ -7,44 +7,23 @@ Date: 2013/01/01 03:43:00
 Updated: 2014/01/26 03:23
 View: page
 -->
-## Information about cookies ##
-<hr>
-Dette website anvender cookies til følgende formål:
+Læs her om brugen af cookies på denne hjemmeside.
 
-- Trafikmåling, så jeg ved hvor mange, der besøger min hjemmeside.
+## Hvad er en cookie?
 
+Cookies anvendes af stort set alle websites. I nogle tilfælde er cookies den eneste måde at få et website til at fungere efter hensigten.
 
-### Cookies ###
-Dette website anvender cookies i henhold til ovenstående formål.
+En cookie er en fil, som lægges på din computer eller andet it-udstyr. Den gør det muligt at genkende din computer og samle information om, hvilke sider og funktioner, der besøges med din browser. Men cookies kan ikke se, hvem du er, hvad du hedder, hvor du bor eller om computeren bruges af en eller flere personer. Den kan heller ikke sprede computervirus eller andre skadelige programmer.
 
-Cookies are text files stored on your computer, and therefore cannot be used to infect your computer with a virus or allow malicous code to run on your computer.
+Denne hjemmeside anvender cookies. Du får information om, at vi sætter cookies, inden de sættes. Det er vi - og alle andre - forpligtede til. Læs mere på Erhvervsstyrelsen.dk om cookies og det juridiske grundlag i ["Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr"](https://erhvervsstyrelsen.dk/cookie-loven) (Cookiebekendtgørelsen).
 
-### How long are cookies stored? ###
-A persistent cookie for a website exists on a users computer until a future date. For example the cookie expiry date could be set as 1 year, and each time a website is accessed over this period the website could access the cookie.
-Cookies sletter sig selv efter et vist antal måneder (kan variere), men de fornyes efter hvert besøg.
+## Cookies til statistik
 
-### Sådan sletter du cookies ###
+Første gang du lander på denne hjemmeside, ser du et banner med information om cookies til statistik. Hvis du klikker på linket "Nej tak til cookies til statistik", sættes der ingen cookies til statistik. Vi bruger dog en cookie, for at huske dit nej tak til statistik. Ønsker du helt at undgå cookies, skal du slå cookies fra i din browser. Du skal dog være opmærksom på, at hvis du slår cookies fra, kan du ikke logge på eller bruge andre funktioner, som forudsætter, at hjemmesiden kan huske dine valg.
 
-Se vejledning her: [http://minecookies.org/cookiehandtering](http://minecookies.org/cookiehandtering)
+Hvis du klikker dig videre til endnu en side uden at vælge "Nej tak ..." eller hvis du klikker "OK", sættes der cookies til at samle statistik, og banneret forsvinder. Vi bruger statistikken til at forbedre brugervenligheden. Oplysningerne i statistikken er anonyme og bliver ikke koblet til den enkelte bruger.
+Slet eller slå cookies fra i browseren 
 
-### Sådan undgår jeg cookies? ###
+Du kan altid afvise cookies på din computer ved at ændre indstillingerne i din browser. Hvor du finder indstillingerne afhænger af, hvilken browser du anvender. Du skal dog være opmærksom på, at hvis du gør det, er der mange funktioner og services på internettet, du ikke kan bruge. 
 
-Hvis du ikke ønsker at modtage cookies kan du blokere dem. Se vejledning her:  
-[http://minecookies.org/cookiehandtering](http://minecookies.org/cookiehandtering)
-
-### Hvad cookies bruges til på vores website ###
-
-Websitet bruger cookies fra Google Analytics til at måle trafikken på
-websitet.
-
-Du kan fravælge cookies fra Google Analytics her:  
-[http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
-
-<hr>
-
-Når du besøger [Den Stammende Kok](http://hjem.jacmoe.dk/) accepterer du ovenstående retningslinjer.
-
-<br>
-Med venlig hilsen
-<br><br>
-Jacob 'jacmoe' Moen
+Alle browsere tillader, at du sletter dine cookies samlet eller enkeltvis. Hvordan du gør det afhænger af, hvilken browser du anvender. Husk, at bruger du flere browsere, skal du slette cookies i dem alle.

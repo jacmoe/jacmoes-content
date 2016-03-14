@@ -6,23 +6,31 @@ ogimage: newsiteimage.jpg
 Date: 2013/01/01 03:43:00
 Updated: 2014/01/26 03:23
 -->
-Læs her om brugen af cookies på denne hjemmeside.
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
 
-## Hvad er en cookie?
+## What are cookies?
 
-Cookies anvendes af stort set alle websites. I nogle tilfælde er cookies den eneste måde at få et website til at fungere efter hensigten.
+A cookie is a small text file that a website saves onyour computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don't have to keep re-entering them whenever you come back to the site or browse from one page to another.
 
-En cookie er en fil, som lægges på din computer eller andet it-udstyr. Den gør det muligt at genkende din computer og samle information om, hvilke sider og funktioner, der besøges med din browser. Men cookies kan ikke se, hvem du er, hvad du hedder, hvor du bor eller om computeren bruges af en eller flere personer. Den kan heller ikke sprede computervirus eller andre skadelige programmer.
+## How do we use cookies?
 
-Denne hjemmeside anvender cookies. Du får information om, at vi sætter cookies, inden de sættes. Det er vi - og alle andre - forpligtede til. Læs mere på Erhvervsstyrelsen.dk om cookies og det juridiske grundlag i ["Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr"](https://erhvervsstyrelsen.dk/cookie-loven) (Cookiebekendtgørelsen).
+A number of our pages use cookies to remember:
+* your display preferences, such as contrast colour settings or font size
+* if you have already replied to a survey pop-up that asks you if the content was helpful or not (so you won't be asked again)
+* if you have agreed (or not) to our use of cookies on this site
 
-## Cookies til statistik
+Also, some videos embedded in our pages use a cookie to anonymously gather statistics on how you got there and what videos you visited.
 
-Første gang du lander på denne hjemmeside, ser du et banner med information om cookies til statistik. Hvis du klikker på linket "Nej tak til cookies til statistik", sættes der ingen cookies til statistik. Vi bruger dog en cookie, for at huske dit nej tak til statistik. Ønsker du helt at undgå cookies, skal du slå cookies fra i din browser. Du skal dog være opmærksom på, at hvis du slår cookies fra, kan du ikke logge på eller bruge andre funktioner, som forudsætter, at hjemmesiden kan huske dine valg.
+Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended.
 
-Hvis du klikker dig videre til endnu en side uden at vælge "Nej tak ..." eller hvis du klikker "OK", sættes der cookies til at samle statistik, og banneret forsvinder. Vi bruger statistikken til at forbedre brugervenligheden. Oplysningerne i statistikken er anonyme og bliver ikke koblet til den enkelte bruger.
-Slet eller slå cookies fra i browseren 
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-Du kan altid afvise cookies på din computer ved at ændre indstillingerne i din browser. Hvor du finder indstillingerne afhænger af, hvilken browser du anvender. Du skal dog være opmærksom på, at hvis du gør det, er der mange funktioner og services på internettet, du ikke kan bruge. 
+## Do we use other cookies?
 
-Alle browsere tillader, at du sletter dine cookies samlet eller enkeltvis. Hvordan du gør det afhænger af, hvilken browser du anvender. Husk, at bruger du flere browsere, skal du slette cookies i dem alle.
+Some of our pages or subsites may use additional or different cookies to the ones described above. If so, the details of these will be provided in their specific cookies notice page. You may be asked for your agreement to store these cookies.
+
+## How to control cookies
+
+You can control and/or delete cookies as you wish - for details, see [aboutcookies.org](http://www.aboutcookies.org/").
+
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.

@@ -49,6 +49,13 @@ And, the `web.php.tpl` configuration template:
     'siteKey' => '{{app.recaptcha.siteKey}}',
     'secret' => '{{app.recaptcha.secret}}',
 ```
+These templates are processed as part of the deployment process, using a custom recipe `yii-configure` - see [yii2-app-basic-deployer](https://github.com/jacmoe/yii2-app-basic-deployer) - in the `deployer/recipes` directory.
+
+But wouldn't it be nice to be able to transpile the templates in development mode as well, like *"in-place"* ?
+
+Yes, that is why I have hacked together a local version of that script, cleverly entitled *local-config* that does just that: run the templates through a template parser - because, how else would I be able to configure the development environment properly if I didn't? :)
+
+The idea is to edit the configuration templates instead of touching `config/web.php` and `config/console.php` - in fact, they are added to my `.gitignore` and that all variables are kept safely in one file only, the `servers.yml` file. Obviously, that file is also not committed to source control.
 
 ```
 <?php

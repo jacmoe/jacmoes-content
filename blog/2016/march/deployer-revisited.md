@@ -15,8 +15,14 @@ published: false
 -->
 (lightbox:Deployer local config source:deployer2/localconfig_mobile.png target:deployer2/localconfig.png)
 In a [[blog/2016/january/deploying-yii-with-deployer|previous]] blog post I wrote about using the excellent deployment tool [Deployer](http://deployer.org/) with [Yii](http://www.yiiframework.com/), and I have found myself using it on a daily basis ever since.
+
+All my projects are deployed using the simple `dep deploy` command and I am happy with it as it is a flexible and seamless process.
+
 (clearfix:)
 
+I am a big fan of the idea of having a master configuration file for both local and remote servers (environments), but I am also a big fan of developing "in-place", i.e. serving the development site directly from the source directory instead of maintaining a separate dev deployment directory.
+
+Like I wrote in my previous blog post about using Deployer with Yii, I am using a special configure recipe to transpile templates
 
 ```
 <?php

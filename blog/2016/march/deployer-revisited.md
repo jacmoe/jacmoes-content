@@ -22,7 +22,33 @@ All my projects are deployed using the simple `dep deploy` command and I am happ
 
 I am a big fan of the idea of having a master configuration file for both local and remote servers (environments), but I am also a big fan of developing "in-place", i.e. serving the development site directly from the source directory instead of maintaining a separate dev deployment directory.
 
-Like I wrote in my previous blog post about using Deployer with Yii, I am using a special configure recipe to transpile templates
+In my previous article about using Deployer with Yii I described how I am using a custom recipe to transpile server variables into template files.
+
+Not only Deployer specific variables, like `host`, `user`, `repository` and `deploy_path`, but also application specific *secrets* like this:
+
+```yaml
+recaptcha:
+    siteKey: 'sadfsadfasfawerfawefawefeaw'
+    secret: 'awefawefawefewarwearwaecfwae'
+
+auth:
+    twitter:
+        consumerKey: 'afewafaewrewrwaegerge'
+        consumerSecret: 'eagwergergratawrtaretret'
+
+    google:
+        clientId: 'ewfweafwaefweafwaefwaefwe'
+        clientSecret: 'wafeawfwearewrwerrwt'
+```
+And, the `web.php.tpl` configuration template:
+
+```php
+'reCaptcha' => [
+    'name' => 'reCaptcha',
+    'class' => 'himiklab\yii2\recaptcha\ReCaptcha',
+    'siteKey' => '{{app.recaptcha.siteKey}}',
+    'secret' => '{{app.recaptcha.secret}}',
+```
 
 ```
 <?php

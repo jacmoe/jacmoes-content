@@ -14,3 +14,4 @@ blogpost: true
 published: false
 -->
 (lightbox:Deployer local config source:deployer2/localconfig_mobile.png target:deployer2/localconfig.png)
+(clearfix:)

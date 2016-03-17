@@ -14,7 +14,7 @@ blogpost: true
 published: true
 -->
 (lightbox:Deployer local config source:deployer2/localconfig_mobile.png target:deployer2/localconfig.png)
-In a [[blog/2016/january/deploying-yii-with-deployer|previous]] blog post I wrote about using the excellent deployment tool [Deployer](http://deployer.org/) with [Yii](http://www.yiiframework.com/), and I now use it every web project I work on.
+In a [[blog/2016/january/deploying-yii-with-deployer|previous]] blog post I wrote about using the excellent deployment tool [Deployer](http://deployer.org/) with [Yii](http://www.yiiframework.com/), and I now use it on every web project I work on.
 
 All my projects are deployed using the simple `dep deploy` command and I am happy with it as it is a flexible and seamless process.
 
@@ -89,3 +89,9 @@ I hope it proves to be as useful to you as it is for me.
 
 **Note** that this recipe is the local version of the `yii-configure` recipe that is used for *real* deployment.  
 That is: both recipes are needed.
+
+## Local config as init
+In [Pype](https://pype.jacmoe.dk/) I use a slightly extended version of the `local-config` task that copies a `Gulpfile.js` and a `package.json` from the configured theme directory as part of the project initialization step.  
+And the main `deploy` script checks if `dep local-config local` has been run before `dep deploy`, just to make sure that the project is booted.
+
+In that regard, it is similar to - but IMO much better - than Composer post-creation scripts like it is done in the official *yii2-app-basic* project template, or using a separate *init* script like it is done in the official *yii2-app-advanced* project template.

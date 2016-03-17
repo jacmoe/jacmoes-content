@@ -59,9 +59,14 @@ These templates are processed as part of the deployment process, using a custom 
 (inimage: Transpilation system source:deployer2/transpile.png align:right)
 The idea is to edit the configuration templates instead of touching `config/web.php` and `config/console.php` - in fact, they are added to my `.gitignore` and that all variables are kept safely in one file only, the `servers.yml` file. Obviously, that file is also not committed to source control.
 
+Now, when adding to the configuration, I edit the templates and issue a `dep local-config local` command and the scripts are updated.
+
+I find it to be safer and less error-prone than having to juggle two (or more) sets of configuration files.
+
+And the chances of forgetting to update the other when one changes are eliminated. And there is only one file to worry about: the `servers.yml` master configuration file.
+
 (clearfix:)
 ## Local config script
-But wouldn't it be nice to be able to transpile the templates in development mode as well, like *"in-place"* ?
+Obviously, this is only going to be useful if you are able to transpile the templates *"in-place"* when developing.
 
-Yes, that is why I have hacked together a local version of that script, cleverly entitled *local-config* that does just that: run the templates through a template parser - because, how else would I be able to configure the development environment properly if I didn't? :)
-
+And that is why I have hacked together a local version of that script, cleverly entitled *local-config* that does just that: run the templates through a template parser and put the processed files where they are supposed to be.

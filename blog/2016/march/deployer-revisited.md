@@ -55,7 +55,8 @@ But wouldn't it be nice to be able to transpile the templates in development mod
 
 Yes, that is why I have hacked together a local version of that script, cleverly entitled *local-config* that does just that: run the templates through a template parser - because, how else would I be able to configure the development environment properly if I didn't? :)
 
+(inimage: Transpilation system source:deployer2/transpile.png align:right)
+
 The idea is to edit the configuration templates instead of touching `config/web.php` and `config/console.php` - in fact, they are added to my `.gitignore` and that all variables are kept safely in one file only, the `servers.yml` file. Obviously, that file is also not committed to source control.
 
-(inimage: Transpilation system source:deployer2/transpile.png align:right)
 (clearfix:)

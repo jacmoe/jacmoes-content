@@ -65,8 +65,27 @@ I find it to be safer and less error-prone than having to juggle two (or more) s
 
 And the chances of forgetting to update the other when one changes are eliminated. And there is only one file to worry about: the `servers.yml` master configuration file.
 
+That one could be stored in a secure vault for safe-keeping.
+
 (clearfix:)
 ## Local config script
 Obviously, this is only going to be useful if you are able to transpile the templates *"in-place"* when developing.
 
 And that is why I have hacked together a local version of that script, cleverly entitled *local-config* that does just that: run the templates through a template parser and put the processed files where they are supposed to be.
+
+And then, generating them is just a simple Deployer command/task:
+
+```
+dep local-config local
+```
+
+Since the task will overwrite any existing files, I have gotten into the good habit of treating the generated files as read-only output and only edit/tweak the templates.
+
+In my experience, there are much less room for errors that way.
+
+The recipe is to be found in the aforementioned yii2-app-basic-deployer repository: [local-config.php](https://github.com/jacmoe/yii2-app-basic-deployer/blob/master/deployer/recipe/local-config.php).
+
+I hope it proves to be as useful to you as it is for me.
+
+**Note** that this recipe is the local version of the `yii-configure` recipe that is used for *real* deployment.  
+That is: both recipes are needed.

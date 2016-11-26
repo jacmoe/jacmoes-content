@@ -13,5 +13,5 @@ Tags: hosting, uberspace
 blogpost: true
 published: false
 -->
-(lightbox:Ubernaut Ich bin ein Ubernaut source:ubernaut/uberspace_mobile.png target:ubernaut/uberspace.png)
+(lightbox:Ubernaut Ich bin ein Ubernaut source:ubernaut/uberspace.png target:ubernaut/uberspace.png)
 I have moved to Uberspace :)

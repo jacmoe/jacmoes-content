@@ -13,7 +13,7 @@ Tags: hosting, uberspace
 blogpost: true
 published: false
 -->
-(inimage:Ich bin ein Ubernaut source:blog2basics/ubernaut/uberspace.png)
+(inimage:Ich bin ein Ubernaut source:ubernaut/uberspace.png)
 
 I have moved to Uberspace :)
 

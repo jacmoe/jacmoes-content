@@ -17,4 +17,6 @@ published: true
 
 I have moved to Uberspace :)
 
+And I am currently learning how it works.
+
 (clearfix:)

@@ -11,7 +11,7 @@ thumb: ubernaut/uberspace_custom.png
 Keywords: uberspace, ubernaut, hosting
 Tags: hosting, uberspace
 blogpost: true
-published: true
+published: false
 -->
 (inimage:Ich bin ein Ubernaut source:ubernaut/uberspace.png)
 

@@ -1,8 +1,8 @@
 <!--
 Title: Ich bin ein Ubernaut
 Author: Jacob Moen
-Date: 2016/12/10 20:02
-Datetime: 2016-12-10
+Date: 2016/12/07 20:02
+Datetime: 2016-12-07
 Description: Moved to Uberspace
 View: post
 Disqusid: /2016/december/ich-bin-ein-ubernaut

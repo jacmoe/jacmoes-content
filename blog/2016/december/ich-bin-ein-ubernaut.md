@@ -17,8 +17,43 @@ published: false
 
 I have moved to Uberspace :)
 
-And I am currently learning how it works.
+>Uberspace.de is a platform of technicians for technicians and all who want to be. We make hosting for command line enthusiasts, data protectionists, control freaks, Unix friends, DIY's ..
 
-It really works, right?
+Pay what you want.
+Whilst the minimum price is 1 euro, the recommended monthly rate is between 5 and 10 euros.
+I like that. A symbolic amount of 1 euro would have kept me hosted.
+
+Programming:
+
+- Perl
+- Python
+- PHP
+- Ruby
+- node.js
+- Erlang
+- Lua
+- Go (golang)
+- GCC
+- git
+- Subversion
+- Mercurial
+
+And databases:
+
+- MySQL
+- PostgreSQL
+- SQLite
+- CouchDB
+- MongoDB
+- Redis
+
+It was easy to connect to mysql via a ssh from Workbench..
+
+Cronjobs
+
+Uberspace allows us to install software packages locally via [Toast](http://www.toastball.net/toast/) 
+
+
+
 
 (clearfix:)

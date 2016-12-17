@@ -15,8 +15,6 @@ published: false
 -->
 (inimage:Ich bin ein Ubernaut source:ubernaut/uberspace.png)
 
-I have moved to Uberspace :)
-
 *"Uberspace.de is a platform of technicians for technicians and all who want to be. We make hosting for command line enthusiasts, data protectionists, control freaks, Unix friends, DIY's .."*
 
 Pay what you want.

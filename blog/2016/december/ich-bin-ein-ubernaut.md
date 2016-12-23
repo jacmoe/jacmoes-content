@@ -3,12 +3,12 @@ Title: Ich bin ein Ubernaut
 Author: Jacob Moen
 Date: 2016/12/07 20:02
 Datetime: 2016-12-07
-Description: Moved to Uberspace
+Description: I have moved my websites from Dreamhost to Uberspace 
 View: post
 Disqusid: /2016/december/ich-bin-ein-ubernaut
 ogimage: ubernaut/uberspace.png
 thumb: ubernaut/uberspace_custom.png
-Keywords: uberspace, ubernaut, hosting
+Keywords: uberspace, ubernaut, hosting, dreamhost
 Tags: hosting, uberspace
 blogpost: true
 published: false
@@ -19,40 +19,23 @@ published: false
 
 Pay what you want.
 Whilst the minimum price is 1 euro, the recommended monthly rate is between 5 and 10 euros.
-I like that. A symbolic amount of 1 euro would have kept me hosted.
+
+
 
 Programming:
 
-- Perl
-- Python
-- PHP
-- Ruby
-- node.js
-- Erlang
-- Lua
-- Go (golang)
-- GCC
-- git
-- Subversion
-- Mercurial
+Perl, Python, PHP, Ruby, node.js, Erlang, Lua, Go, GCC, git, Subversion, Mercurial, ...
 
-And databases:
+MySQL, PostgreSQL, SQLite, CouchDB, MongoDB, Redis, ...
 
-- MySQL
-- PostgreSQL
-- SQLite
-- CouchDB
-- MongoDB
-- Redis
+It was easy to connect to mysql via a ssh tunnel from Workbench. There is also webbased interfaces, Datamine and PHPMyAdmin.
 
-It was easy to connect to mysql via a ssh from Workbench..
-
-Cronjobs
+Cronjobs, services, ..
 
 You can also install software via LinuxBrew, which is awesome!
 
 Let's Encrypt - works.
 
-
+No cPanel, no GUI, all command-line.
 
 (clearfix:)

@@ -23,6 +23,9 @@ The price went from $10 to $15 a month, which I think was quite expensive, consi
 
 (clearfix:)
 
+Still, I was unable to find a suitable alternative..
+
+Until I stumbled upon [Uberspace](https://uberspace.de/)!
 
 *"Uberspace.de is a platform of technicians for technicians and all who want to be. We make hosting for command line enthusiasts, data protectionists, control freaks, Unix friends, DIY's .."*
 

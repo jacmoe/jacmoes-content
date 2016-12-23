@@ -108,7 +108,7 @@ I read up on domains on the [Uberspace wiki](https://wiki.uberspace.de/domain:ve
 uberspace-add-domain -d jacmoe.dk -w
 ~~~
 I also added `www.jacmoe.dk`, just in case. 
-Then, I created a `jacmoe` directory in `/var/virtual/jacmoe`, deployed my site, and created a symlink for the site:
+Then, I created a `jacmoe` directory in `/var/www/virtual/jacmoe`, deployed my site, and created a symlink for the site:
 ~~~bash
 ln -s jacmoe/current/web jacmoe.dk
 ~~~
@@ -118,7 +118,7 @@ Adding subdomains was just as easy.
 
 After a day, my main site, and 5 subdomains, were all up and running.
 
-I changed the PHP version to 7.0, and that was just a matter of changing a configuration file in my home directory and rstart PHP.
+I changed the PHP version to 7.0, and that was just a matter of changing a configuration file in my home directory and restart PHP.
 
 I also added a service to run my Gogs (Go Git Service) instance - Uberspace is awesome!
 

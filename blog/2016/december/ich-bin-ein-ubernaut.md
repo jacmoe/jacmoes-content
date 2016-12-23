@@ -27,26 +27,28 @@ Still, I was unable to find a suitable alternative..
 
 Until I stumbled upon [Uberspace](https://uberspace.de/)!
 
-# Uberspace #
+## Uberspace ##
 
 *"Uberspace.de is a platform of technicians for technicians and all who want to be. We make hosting for command line enthusiasts, data protectionists, control freaks, Unix friends, DIY's .."*
 
-## Features ##
+### Features ###
 
-### Pay what you want ###
+#### Pay what you want ####
 
 Pay what you want.
 Whilst the minimum price is 1 euro, the recommended monthly rate is between 5 and 10 euros.
 
-
-
-Programming:
+#### Programming languages ####
 
 Perl, Python, PHP, Ruby, node.js, Erlang, Lua, Go, GCC, git, Subversion, Mercurial, ...
+
+#### Databases ####
 
 MySQL, PostgreSQL, SQLite, CouchDB, MongoDB, Redis, ...
 
 It was easy to connect to mysql via a ssh tunnel from Workbench. There is also webbased interfaces, Datamine and PHPMyAdmin.
+
+#### Goodies ####
 
 Cronjobs, services, ..
 
@@ -54,6 +56,12 @@ You can also install software via LinuxBrew, which is awesome!
 
 Let's Encrypt - works.
 
+#### Lose the GUI ####
+
 No cPanel, no GUI, all command-line.
+
+#### Have fun ####
+
+###  ###
 
 (clearfix:)

@@ -21,6 +21,8 @@ So, I thought to myself: do my sites really have to track you as well?
 
 In the European Union, we are required by law to comply with the [Cookie Directive](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm), which basically means that we need to at least inform our visitors that we are collecting cookies and link to a privacy policy page explaining what cookies are, and whatnot.
 
+(clearfix:)
+
 Ironically, a cookie is set on your machine so that you don't have to click the 'Agree with use of cookies' ...
 
 The Cookie Directive has unfortunately meant that you are being met with annoying pop-ups 'all over the place' - I agree with the principle, but it is just too much.
@@ -30,8 +32,6 @@ So, in order to go completely cookie-free, and avoid all the EU cookie regulatio
 Also, of course, this has the added benefit of privacy, which is nice.
 
 I don't want to track, or help to track, anyone.
-
-(clearfix:)
 
 ## Google Analytics ##
 Saving the request to the Google servers.

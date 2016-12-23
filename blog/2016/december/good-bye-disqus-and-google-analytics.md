@@ -12,4 +12,6 @@ Tags: hosting, uberspace
 blogpost: true
 published: false
 -->
-(lightbox:Do not track source:donottrack/do_not_track_mobile.jpg target:donottrack/do_not_track.jpg)
+(lightbox:Do Not Track - Photo by pippalou at Morguefile.com  source:donottrack/do_not_track_mobile.jpg target:donottrack/do_not_track.jpg)
+
+(clearfix:)

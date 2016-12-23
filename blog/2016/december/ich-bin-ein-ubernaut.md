@@ -15,6 +15,15 @@ published: false
 -->
 (inimage:Ich bin ein Ubernaut source:ubernaut/uberspace.png)
 
+I have been a Dreamhost customer for years, on shared hosting, and have been fairly satisfied.
+
+Six months ago, I decided to move from shared hosting to a Dreamhost VPS, because I wanted to do more, like running Node.js and configure my server.
+
+The price went from $10 to $15 a month, which I think was quite expensive, considering that Dreamhost VPS does not grant root access, and all in all does not give you a whole lot more than regular shared hosting..
+
+(clearfix:)
+
+
 *"Uberspace.de is a platform of technicians for technicians and all who want to be. We make hosting for command line enthusiasts, data protectionists, control freaks, Unix friends, DIY's .."*
 
 Pay what you want.

@@ -1,8 +1,8 @@
 <!--
 Title: Ich bin ein Ubernaut
 Author: Jacob Moen
-Date: 2016/12/07 20:02
-Datetime: 2016-12-07
+Date: 2016/12/23 11:53
+Datetime: 2016-12-23
 Description: I have moved my websites from Dreamhost to Uberspace 
 View: post
 Disqusid: /2016/december/ich-bin-ein-ubernaut
@@ -11,7 +11,7 @@ thumb: ubernaut/uberspace_custom.png
 Keywords: uberspace, ubernaut, hosting, dreamhost
 Tags: hosting, uberspace
 blogpost: true
-published: false
+published: true
 -->
 (inimage:Ich bin ein Ubernaut source:ubernaut/uberspace.png)
 
@@ -116,7 +116,23 @@ After adding the ip adresses to my DNS configuration - at my DNS hosting provide
 
 Adding subdomains was just as easy.
 
+After a day, my main site, and 5 subdomains, were all up and running.
+
+I changed the PHP version to 7.0, and that was just a matter of changing a configuration file in my home directory and rstart PHP.
+
+I also added a service to run my Gogs (Go Git Service) instance - Uberspace is awesome!
+
+Adding Let's Encrypt certificates was also very easy, so all my sites are now secure.
+
+I really am looking forward to experiment with Rust, Erlang, etc. Perhaps even using a C++ web framework! Why not? :)
 
 ## Conclusion ##
+I highly recommend that you check out [Uberspace](https://uberspace.de/) if you want a web host with a lot of features for an unbeatable price.
+
+I like their ethical standpoints (privacy, transparency, security) and their pay-what-you-want policy, and overall serious attitude, while at the same time they encourage you to have fun and not fear the command-line.
+
+So, yes: ich bin ein Ubernaut!
+
+And I probably will be hosted on asteroids for a long time to come. :)
 
 (clearfix:)

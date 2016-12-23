@@ -13,6 +13,23 @@ blogpost: true
 published: false
 -->
 (lightbox:Do Not Track - Photo by pippalou at Morguefile.com  source:donottrack/do_not_track_mobile.jpg target:donottrack/do_not_track.jpg)
+It seems like - and is actually true as well! that we are tracked where ever we go these days.
+
+Whenever we use our smartphone, log into the internet, yes, even when we use a modern car or take a stroll to the shopping mall, we are tracked. Information is being gathered about where we are located, what pages we have visited on the internet, etc.
+
+So, I thought to myself: do my sites really have to track you as well?
+
+In the European Union, we are required by law to comply with the [Cookie Directive](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm), which basically means that we need to at least inform our visitors that we are collecting cookies and link to a privacy policy page explaining what cookies are, and whatnot.
+
+Ironically, a cookie is set on your machine so that you don't have to click the 'Agree with use of cookies' ...
+
+The Cookie Directive has unfortunately meant that you are being met with annoying pop-ups 'all over the place' - I agree with the principle, but it is just too much.
+
+So, in order to go completely cookie-free, and avoid all the EU cookie regulation sheenanigans, I have decided to get rid of Google Analytics and Disqus from my sites.
+
+Also, of course, this has the added benefit of privacy, which is nice.
+
+I don't want to track, or help to track, anyone.
 
 (clearfix:)
 
@@ -46,5 +63,7 @@ The email addresses are encrypted so in the highly unlikely event that someone m
 ## You are welcome ##
 
 I hope that you will appreciate not being tracked :)
+
+And everyone, except the cookie monster, will be pleased to know that this site is absolutely cookie-free!
 
 (clearfix:)

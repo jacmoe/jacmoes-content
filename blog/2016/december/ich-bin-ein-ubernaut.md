@@ -17,13 +17,17 @@ published: false
 
 I have been a Dreamhost customer for years, on shared hosting, and have been fairly satisfied.
 
-Six months ago, I decided to move from shared hosting to a Dreamhost VPS, because I wanted to do more, like running Node.js and configure my server.
+A year ago, I decided to move from shared hosting to a Dreamhost VPS, because I wanted to do more, like running Node.js and configure my server.
 
 The price went from $10 to $15 a month, which I think was quite expensive, considering that Dreamhost VPS does not grant root access, and all in all does not give you a whole lot more than regular shared hosting..
 
 (clearfix:)
 
-Still, I was unable to find a suitable alternative.. 
+Due to financial problems, I defaulted my payments and I was 'terminated' and so I have been off-line for nearly 6 months ..
+
+And I have been on the lookout for an alternative that I can afford, and that gives me the features I need.
+
+Not surprisingly, I was unable to find a suitable alternative.. 
 
 Until I stumbled upon [Uberspace](https://uberspace.de/)!
 
@@ -78,16 +82,26 @@ There are lots of 'uberspace' scripts that can help you configure your Uberspace
 For a command-line geek like me, that is perfect!
 
 #### Have fun ####
+As long as you act responsibly, you are actively encouraged to try things out.
 
+They have a very geeky wiki with lots of cool stuff, and they provide lots of freedom.
 
-#### Be responsible ####
+### Caveats ###
+#### German ####
+Yes, there is a catch: everything is in German!
 
+I am lucky to be able to understand German so-and-so, and I use Google Translate sometimes, especially when reading the Uberspace wiki.
 
-### Non-features ###
+Luckily, they do English when you contact them for support, and the scripts in the shell also 'speaks English'.
 
+I am working on my German, and am currently at 22% fluency at [DuoLingo](https://www.duolingo.com/jacmoe) :)
+
+#### DNS hosting ####
+They do not offer DNS hosting, so if you have your own domain name, you need to find a DNS host first.
 
 ### My experience ###
 
 
+## Conclusion ##
 
 (clearfix:)

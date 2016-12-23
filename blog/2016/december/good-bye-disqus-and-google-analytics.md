@@ -53,7 +53,7 @@ I discovered that Disqus were collecting information about my visitors so that t
 
 Disqus is a so-called 'free' service, but what we are really paying them with is information.
 
-(inimage: source:donottrack/cookie_monster.jpg align:right)
+(inimage: Cookie Monster not happy source:donottrack/cookie_monster.jpg align:right)
 
 ## Self-hosted comments ##
 I am now using [HashOver 2.0](https://github.com/jacobwb/hashover-next) PHP comment system.

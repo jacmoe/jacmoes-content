@@ -10,7 +10,7 @@ thumb: donottrack/do_not_track_custom.jpg
 Keywords: privacy, disqus, google analytics, analytics, google, security
 Tags: privacy
 blogpost: true
-published: true
+published: false
 -->
 (lightbox:Do Not Track - Photo by pippalou at Morguefile.com  source:donottrack/do_not_track_mobile.jpg target:donottrack/do_not_track.jpg)
 It seems like - and is actually true as well! that we are tracked where ever we go these days.

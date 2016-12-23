@@ -1,8 +1,8 @@
 <!--
 Title: Good-bye Disqus and Google Analytics
 Author: Jacob Moen
-Date: 2016/12/23 11:53
-Datetime: 2016-12-23
+Date: 2016/12/24 00:53
+Datetime: 2016-12-24
 Description: For privacy and security reasons I removed Google Analytics tracking and Disqus from my sites 
 View: post
 ogimage: donottrack/do_not_track_mobile.jpg
@@ -10,7 +10,7 @@ thumb: donottrack/do_not_track_custom.jpg
 Keywords: privacy, disqus, google analytics, analytics, google, security
 Tags: privacy
 blogpost: true
-published: false
+published: true
 -->
 (lightbox:Do Not Track - Photo by pippalou at Morguefile.com  source:donottrack/do_not_track_mobile.jpg target:donottrack/do_not_track.jpg)
 It seems like - and is actually true as well! that we are tracked where ever we go these days.
@@ -54,7 +54,7 @@ I am now using [HashOver 2.0](https://github.com/jacobwb/hashover-next) PHP comm
 
 I wrote a script that imported my comments from Disqus, and they are now stored safely on my server.
 
-Any email addresses are encrypted, so in the highly unlikely event that someone manages to compromise the data, they won't be able to steal any personal information, because they don't have the encryption key.
+Any email addresses are encrypted so in the highly unlikely event that someone manages to compromise the data, they won't be able to steal any personal information, because they don't have the encryption key.
 
 ## You are welcome ##
 

@@ -23,11 +23,10 @@ The price went from $10 to $15 a month, which I think was quite expensive, consi
 
 (clearfix:)
 
-Due to financial problems, I defaulted my payments and I was 'terminated' and so I have been off-line for nearly 6 months ..
-
-And I have been on the lookout for an alternative that I can afford, and that gives me the features I need.
+Eventually, I had to close my Dreamhost account because of financial issues, and I have been on the lookout for an alternative that I can afford, and that gives me the features I need.
 
 Not surprisingly, I was unable to find a suitable alternative.. 
+
 
 Until I stumbled upon [Uberspace](https://uberspace.de/)!
 
@@ -59,11 +58,13 @@ Perl, Python, PHP, Ruby, node.js, Erlang, Lua, Go, GCC, git, Subversion, Mercuri
 
 You can have a custom `php.ini`, install extensions, PECL, ..
 
+It is possible to install/compile other languages, like Rust. The list above is just what Uberspace provides 'out of the box'.
+
 #### Databases ####
 
 MySQL, PostgreSQL, SQLite, CouchDB, MongoDB, Redis, ...
 
-It was easy to connect to mysql via a ssh tunnel from MySQL Workbench. There is also webbased interfaces, Datamine and PHPMyAdmin.
+It was easy to connect to mysql via a ssh tunnel from MySQL Workbench. There is also webbased interfaces, like Adminer and PHPMyAdmin, if you want that.
 
 #### Goodies ####
 
@@ -100,6 +101,20 @@ I am working on my German, and am currently at 22% fluency at [DuoLingo](https:/
 They do not offer DNS hosting, so if you have your own domain name, you need to find a DNS host first.
 
 ### My experience ###
+After signing up, all I had to do to log into my shell account was to provide a public ssh key, and I was good to go.
+
+I read up on domains on the [Uberspace wiki](https://wiki.uberspace.de/domain:verwalten), and I ran the following command to add my `jacmoe.dk` domain:
+~~~bash
+uberspace-add-domain -d jacmoe.dk -w
+~~~
+I also added `www.jacmoe.dk`, just in case. 
+Then, I created a `jacmoe` directory in `/var/virtual/jacmoe`, deployed my site, and created a symlink for the site:
+~~~bash
+ln -s jacmoe/current/web jacmoe.dk
+~~~
+After adding the ip adresses to my DNS configuration - at my DNS hosting provider - the site was live.
+
+Adding subdomains was just as easy.
 
 
 ## Conclusion ##

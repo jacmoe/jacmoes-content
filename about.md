@@ -8,4 +8,4 @@ Updated: 2014/01/26 03:23
 View: about
 -->
 (icondiv:heart)
-autogallery=history
+(autogallery: history)

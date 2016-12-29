@@ -8,7 +8,9 @@ Updated: 2014/01/26 03:23
 View: about
 -->
 About me - forthcoming .. :)
-
+(div:)
+Hi
+(div: true)
 
 (icondiv:heart)
 (autogallery: history)

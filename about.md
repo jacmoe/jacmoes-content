@@ -10,7 +10,7 @@ View: about
 About me - forthcoming .. :)
 (div:)
 Hi
-(div end:true)
+(div: end:true)
 
 (icondiv:heart)
 (autogallery: history)

@@ -7,10 +7,5 @@ Date: 2013/01/01 03:43:00
 Updated: 2014/01/26 03:23
 View: about
 -->
-About me - forthcoming .. :)
-(div:test)
-Hi
-(div:test end:true)
-
 (icondiv:heart)
 (autogallery: history)

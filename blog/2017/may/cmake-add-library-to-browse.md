@@ -2,7 +2,7 @@
 Title: CMake - Add library to browse
 Author: Jacob Moen
 Date: 2017/05/25 11:53
-Datetime: 2017-05-24
+Datetime: 2017-05-25
 Description: Sometimes you want to be able to browse the source code of a library without adding it to your CMake project
 View: post
 ogimage: cmake-browse/cmakebrowse.jpeg
@@ -10,7 +10,7 @@ thumb: cmake-browse/cmakebrowse_custom.jpeg
 Keywords: cmake, trick, project, library, programming, c
 Tags: cmake, programming, c
 blogpost: true
-published: false
+published: true
 -->
 (inimage:CMake Trick source:cmake-browse/cmakebrowse.jpeg)
 
@@ -59,6 +59,8 @@ ${NASL_SOURCECODE}/src/nasl_graphics.c
 
 add_library(nasl ${NASL_HEADERS} ${NASL_SOURCES})
 ```
+
+As you can see, the `NASL_SOURCECODE` variable is pointing to where my library is located, and then I just add the headers and the sources to the library.
 
 ## It works ?
 

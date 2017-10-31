@@ -1,8 +1,8 @@
 <!--
 Title: A lean facelift
 Author: Jacob Moen
-Date: 2017/05/25 11:53
-Datetime: 2017-05-25
+Date: 2017/11/01 11:53
+Datetime: 2017-11-01
 Description: My site has gotten even leaner and cleaner after I switched to using m.css
 View: post
 ogimage: mcss/facelift.jpg

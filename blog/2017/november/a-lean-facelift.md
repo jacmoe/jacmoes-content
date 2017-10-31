@@ -6,13 +6,13 @@ Datetime: 2017-05-25
 Description: My site has gotten even leaner and cleaner after I switched to using m.css
 View: post
 ogimage: mcss/mcss.jpg
-thumb: mcss/mcss_custom.jpg
+thumb: mcss/mcss_custom.png
 Keywords: css, site, theming
 Tags: site, theming, css
 blogpost: true
 published: false
 -->
-(inimage:m.css source:mcss/mcss.jpg)
+(lightbox:Do Not Track - Photo by pippalou at Morguefile.com  source:mcss/mcss_mobile.png target:mcss/mcss.png)
 
 Introduction
 

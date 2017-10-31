@@ -5,7 +5,7 @@ Date: 2017/10/31 11:53
 Datetime: 2017-10-31
 Description: M.css is a CSS framework for content-oriented websites and it is perfect for my site.
 View: post
-ogimage: mcss/facelift.jpg
+ogimage: mcss/facelift.png
 thumb: mcss/facelift_custom.png
 Keywords: css, site, theming, mcss
 Tags: site, theming, css

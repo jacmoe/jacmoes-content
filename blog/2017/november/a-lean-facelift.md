@@ -1,8 +1,8 @@
 <!--
 Title: A lean facelift
 Author: Jacob Moen
-Date: 2017/10/31 11:53
-Datetime: 2017-10-31
+Date: 2017/11/01 11:53
+Datetime: 2017-11-01
 Description: M.css is a CSS framework for content-oriented websites and it is perfect for my site.
 View: post
 ogimage: mcss/facelift.png

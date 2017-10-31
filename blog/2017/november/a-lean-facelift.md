@@ -32,7 +32,7 @@ Luckily, I found [m.css](http://mcss.mosra.cz/) which describes itself as follow
 
 Armed with that, I managed to get rid of 95 % of my Sass code, simply because it works beautifully out of the box.
 
-It features a grid, inspired by Bootstrap, sensible typography, buttons, and has a few tricks up the sleeve, like extra support articles/landing pages and other things that people who write content oriented websites would want.
+It features a grid, inspired by Bootstrap, sensible typography, buttons, and has a few tricks up the sleeve, like extra support for articles/landing pages and other things that people who write content oriented websites would want.
 
 It does not feature anything else, though, so it is very, very lean.
 

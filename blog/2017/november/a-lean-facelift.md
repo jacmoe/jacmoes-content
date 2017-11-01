@@ -14,7 +14,7 @@ published: true
 -->
 (lightbox:Facelift source:mcss/facelift_mobile.png target:mcss/facelift.png)
 
-It is that time of year when I grow tired of the design of my site, and decides to rewrite the theme.
+It is that time of year when I grow tired of the design of my site, and decide to rewrite the theme.
 
 I have been using the excellent, and very lean! CSS (Sass) framework [Bourbon](http://bourbon.io/), with [Neat](https://neat.bourbon.io/) for the grid layout, and while it is lean, I still managed to produce a certain amount of messy Sass code! :p
 
